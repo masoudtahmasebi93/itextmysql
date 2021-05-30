@@ -1,0 +1,26 @@
+{
+  "name": "itextmysql",
+  "version": "1.0.0",
+  "description": "itext mysql backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/masoudtahmasebi93/itextmysql.git"
+  },
+  "keywords": [
+    "itext"
+  ],
+  "author": "Milad & Masoud Tahmasebi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/masoudtahmasebi93/itextmysql/issues"
+  },
+  "homepage": "https://github.com/masoudtahmasebi93/itextmysql#readme",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
